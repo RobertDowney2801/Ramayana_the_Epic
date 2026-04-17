@@ -79,7 +79,7 @@ p.italic {
               later dramatic traditions, re-enacted in dance-dramas, village theatre, 
               shadow-puppet theatre and the annual <em>Ram-lila </em> (Rama-play). 
             </p>
-<P> There are the<a href="SEVEN Kands .html" class="button"><strong><span>Seven Kands</span></strong></a> seven parts of <mark> <strong> RAMAYANA </mark> </strong> called 'Kands'.</p>
+<P> There are the <a href="SEVEN Kands .html" class="button"><strong><Seven Kands</strong></a> seven parts of <mark> <strong> RAMAYANA </mark> </strong> called 'Kands'.</p>
 <img src='https://i.postimg.cc/jdGJqVRJ/itl-cat-ramayana-images-wallpapers-1118181.jpg' border='0' alt='itl-cat-ramayana-images-wallpapers-1118181' width="100%" height="100%">
 
 <markdown><marquee><a href="SEVEN Kands .html"><strong><span>Seven Kands</span></strong></a></marquee></markdown>
