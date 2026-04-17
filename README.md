@@ -1,5 +1,4 @@
 
-<!doctype html>
 <html lang="hi"> 
 <head> 
 <title> RAMAYANA </title>
